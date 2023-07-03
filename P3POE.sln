@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3POE", "P3POE\P3POE.csproj", "{4FCCB807-6280-47F8-9171-CBAA135D4284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCCB807-6280-47F8-9171-CBAA135D4284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCCB807-6280-47F8-9171-CBAA135D4284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCCB807-6280-47F8-9171-CBAA135D4284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCCB807-6280-47F8-9171-CBAA135D4284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8621A28D-DEBE-4CED-A79B-04645CD2EACD}
+	EndGlobalSection
+EndGlobal
